@@ -1,0 +1,6 @@
+framework module VCIPFramework {
+  umbrella header "VCIPFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

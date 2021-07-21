@@ -1,0 +1,6 @@
+framework module Pods_VCIPFramework_Example {
+  umbrella header "Pods-VCIPFramework_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

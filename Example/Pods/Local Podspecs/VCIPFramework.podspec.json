@@ -1,0 +1,22 @@
+{
+  "name": "VCIPFramework",
+  "version": "0.1.0",
+  "summary": "A short description of VCIPFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HimanshuTIwari/VCIPFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HimanshuTIwari": "himanshu.tiwari@signzy.com"
+  },
+  "source": {
+    "git": "https://github.com/HimanshuTIwari/VCIPFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "VCIPFramework/Classes/**/*"
+}
